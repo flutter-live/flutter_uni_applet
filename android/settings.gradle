@@ -1,0 +1,3 @@
+include ':uniapp-v8-release'
+include ':app'
+rootProject.name = 'flutter_uni_applet'
